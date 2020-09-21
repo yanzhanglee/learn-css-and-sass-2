@@ -1,0 +1,86 @@
+// LOGO
+.logo {
+  height: 3.25rem;
+  margin-left: 3rem;
+}
+
+
+// SEARCH BOX
+.search {
+  flex: 0 0 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &__input {
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+    background-color: var(--grey-light-2);
+    border: none;
+    padding: .7rem 2rem;
+    border-radius: 100px;
+    width: 90%;
+    margin-right: -3rem;
+
+    transition: all .2s;
+
+    &:focus{
+      outline: none;
+      width: 100%;
+      background-color: var(--grey-light-3);;
+    }
+
+    &::-webkit-input-placeholder {
+      font-weight: 100;
+      color: var(--grey-light-4);
+    }
+
+  }
+
+  &__input:focus + &__btn{
+    background-color: var(--grey-light-3);
+  }
+
+  &__btn {
+    border: 0;
+    background-color: var(--grey-light-2);
+
+    &:focus{
+      outline: none;
+    }
+    &:active{
+      transform: translateY(2px);
+    }
+  }
+  &__icon {
+    height: 2rem;
+    width: 2rem;
+    fill: var(--grey-dark-3);
+  }
+}
+
+// USER NAV
+.user-nav  {
+  background-color: yellowgreen;
+  &__icon-box {
+
+  }
+  &__icon {
+    height: 2.25rem;
+    width: 2.25rem;
+  }
+  &__notification{
+
+  }
+  &__user {
+
+  }
+  &__user-photo {
+    height: 3.75rem;
+    border-radius: 50%;
+  }
+  &__user-name {
+
+  }
+}

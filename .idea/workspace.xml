@@ -1,21 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="593199c5-757c-47a4-81e0-0c0d0a2b2165" name="Default Changelist" comment="" />
+    <list default="true" id="593199c5-757c-47a4-81e0-0c0d0a2b2165" name="Default Changelist" comment="Initialize the folder">
+      <change afterPath="$PROJECT_DIR$/img/SVG/aircraft-take-off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/SVG/bookmark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/SVG/chat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/SVG/chevron-thin-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/SVG/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/SVG/key.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/SVG/location-pin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/SVG/magnifying-glass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/SVG/map.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/SVG/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/_components.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/_layout.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sprite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/sprite.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hgd1WgNlIbvcrJN9vEa93ZJghs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -26,6 +64,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,12 +77,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600436455316</updated>
-      <workItem from="1600436456973" duration="888000" />
+      <workItem from="1600436456973" duration="1198000" />
+      <workItem from="1600511098704" duration="2804000" />
+      <workItem from="1600691730696" duration="4296000" />
     </task>
+    <task id="LOCAL-00001" summary="Initialize the folder">
+      <created>1600439524005</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600439524005</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initialize the folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initialize the folder" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1419" height="261" key="GridCell.Tab.0.bottom" timestamp="1600437045064">
@@ -58,5 +127,13 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="261" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600437045064" />
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2" timestamp="1600521396705">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1600521396705" />
+    <state x="542" y="345" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600521387607">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="542" y="345" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1600521387607" />
   </component>
 </project>
