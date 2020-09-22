@@ -11,11 +11,12 @@
   font-size: 1.4rem;
   height: 7rem;
   background-color: #fff;
-  border-bottom: var(--grey-light-2);
+  border-bottom: 1px solid var(--grey-light-2);
 
   display: flex;
   justify-content: space-between; //两端对齐
   align-items: center; //垂直居中
+
 
 }
 
@@ -26,10 +27,34 @@
 .sidebar {
   background-color: var(--grey-dark-1);
 
-  flex: 0 0 18%;
+  flex: 0 0 22%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .hotel-view {
-  background-color: orange;
   flex: 1; //grow as much as it can
+}
+
+.detail {
+  display: flex;
+  padding: 4.5rem;
+  background-color: var(--grey-light-1);
+  border-bottom: 1px solid var(--grey-light-2);
+}
+
+.description {
+  font-size: 1.4rem;
+  background-color: #fff;
+  box-shadow: var(--shadow-light);
+  padding: 3rem;
+  flex: 0 0 60%;
+  margin-right: 4.5rem;
+}
+
+.user-reviews {
+  background-color: #fff;
+  box-shadow: var(--shadow-light);
+  flex: 1;
 }
