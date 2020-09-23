@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="593199c5-757c-47a4-81e0-0c0d0a2b2165" name="Default Changelist" comment="Finish Chapter 0.5">
+    <list default="true" id="593199c5-757c-47a4-81e0-0c0d0a2b2165" name="Default Changelist" comment="Finish Chapter 0.75">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -55,6 +55,23 @@
       <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="build:css" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build:css" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build:css" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +83,9 @@
       <workItem from="1600436456973" duration="1198000" />
       <workItem from="1600511098704" duration="2804000" />
       <workItem from="1600691730696" duration="4899000" />
-      <workItem from="1600769832836" duration="7946000" />
+      <workItem from="1600769832836" duration="8019000" />
+      <workItem from="1600844909923" duration="613000" />
+      <workItem from="1600858567027" duration="7479000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize the folder">
       <created>1600439524005</created>
@@ -82,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600700407907</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finish Chapter 0.75">
+      <created>1600779330483</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600779330483</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,7 +129,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialize the folder" />
     <MESSAGE value="Finish Chapter 0.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish Chapter 0.5" />
+    <MESSAGE value="Finish Chapter 0.75" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish Chapter 0.75" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1419" height="261" key="GridCell.Tab.0.bottom" timestamp="1600437045064">
@@ -122,10 +149,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="261" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600437045064" />
-    <state x="-3" y="-1124" key="Vcs.Push.Dialog.v2" timestamp="1600700414016">
+    <state x="-3" y="-1124" key="Vcs.Push.Dialog.v2" timestamp="1600779339668">
       <screen x="-572" y="-1417" width="2560" height="1417" />
     </state>
-    <state x="-3" y="-1124" key="Vcs.Push.Dialog.v2/-572.-1417.2560.1417/0.23.1440.877@-572.-1417.2560.1417" timestamp="1600700414016" />
+    <state x="-3" y="-1124" key="Vcs.Push.Dialog.v2/-572.-1417.2560.1417/0.23.1440.877@-572.-1417.2560.1417" timestamp="1600779339668" />
     <state x="320" y="186" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1600521396705" />
     <state x="542" y="345" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600521387607">
       <screen x="0" y="0" width="1440" height="900" />
